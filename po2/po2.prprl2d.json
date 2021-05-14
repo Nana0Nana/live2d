@@ -1,0 +1,58 @@
+
+{
+    "customName" : "po2",
+    "iconPath"   : "",
+    "bodyPhysics" : 1,
+    "modelPos"    : {
+        "x" : 0.540001213550568,
+        "y" : -2.69000506401062,
+        "z" : -0.800000011920929
+    },
+    "modelSize"   : {
+        "x" : 7.79999399185181,
+        "y" : 7.79999399185181,
+        "z" : 5.0
+    },
+    "modelAngle"  : {
+        "x" : 0.0,
+        "y" : 0.0,
+        "z" : 0.0
+    },
+    "capsuleRadius" : 1.7887,
+    "capsuleHeight" : 7.272768,
+    "capsulePos"    : {
+        "x" : 0.540001213550568,
+        "y" : -1.74095797538757,
+        "z" : -1.79999995231628
+    },
+    "keys"          : [
+        {
+            "type" : 0,
+            "bindAction" : "0",
+            "bindVirtualAction" : {
+                "Keys" : [
+                    306,
+                    111
+                ],
+                "actionName" : "\u5C3E\u5DF4",
+                "isGlobal"   : true,
+                "isApply"    : true
+            }
+        }
+    ],
+    "useVoice"      : false,
+    "voiceParams"   : [
+        1,
+        1,
+        0.5,
+        0.3,
+        0.4,
+        0.1,
+        1,
+        -1,
+        0.4,
+        1
+    ],
+    "L2DName"       : "",
+    "mapIsGlobal"   : false
+}
