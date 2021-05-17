@@ -1,0 +1,29 @@
+{
+  "Version": 3,
+  "ScaleFactor": 1.5,
+  "FileReferences": {
+    "Moc": "Live2DEuclid.moc3",
+    "Textures": [
+      "Live2DEuclid.1024/texture_00.png"
+    ],
+    "Motions": {
+      "Start": [
+        {
+          "Text": "Euclid...是失败品吗..."
+        }
+      ],
+      "Tap": [
+        {
+          "Text": "Euclid是失败品吗？"
+        }
+      ]
+    }
+  },
+  "HitAreas": [
+    {
+      "Name": "头部",
+      "Id": "ArtMesh25"
+    }
+  ],
+  "LipSync": true
+}
